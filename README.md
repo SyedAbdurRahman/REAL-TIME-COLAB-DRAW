@@ -2,7 +2,6 @@
 
 ---
 
-﻿# REAL-TIME-COLAB-DRAW
 
 **Company:** CODTECH IT SOLUTIONS
 
