@@ -40,9 +40,7 @@ Powered by React, TailwindCSS, and Socket.IO, Pixo delivers a fluid and engaging
 
 ---
 
-![Image](https://github.com/user-attachments/assets/6d5da8e7-ae4a-4d23-a9e3-41a0f5ff3674)
-
-![Image](https://github.com/user-attachments/assets/64dda092-d71f-4d54-9da4-80e6f9512572)
+![Image](https://github.com/user-attachments/assets/dee03ae6-8bc8-4fb5-a8b7-e10be0066ad4)
 
 ---
 
